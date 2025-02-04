@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Primera app React Natvie Oteiza</Text>
+      <Text>Goated</Text>
       <StatusBar style="auto" />
     </View>
   );
